@@ -1,5 +1,5 @@
 package OCAWarmUp;
 
 public interface ForPeople {
-        void getPeople();
+        void getPeople(int people);
 }

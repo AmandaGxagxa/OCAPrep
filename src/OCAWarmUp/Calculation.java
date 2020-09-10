@@ -22,11 +22,6 @@ public class Calculation {
         }
     }
 
-//    public void addDesks(int desks) {
-//        if(people.size()  > 50){
-//            desks=desks+0;
-//        }
-//    }
     public int getDesks() {
         return desks;
     }
